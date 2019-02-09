@@ -10,21 +10,14 @@ https://www.amazon.de/gp/product/B074Q2WM1Y/ref=ppx_yo_dt_b_asin_title_o03__o00_
 
 Connection:
 
-TFT(ST7735)	NodeMcu v3
+TFT(ST7735) -->	NodeMcu v3
 
-GND		-->   G
-
-VCC		-->	  3V
-
-SCK		-->	  D5
-
-SDA		-->	  D7
-
-RES		-->	  D4
-
-RS		-->	  D3
-
-CS		-->	  D8
-
-LEDA	-->	  3V
+GND		      -->   G
+VCC		      -->	  3V
+SCK		      -->	  D5
+SDA		      -->	  D7
+RES		      -->	  D4
+RS		      -->	  D3
+CS		      -->	  D8
+LEDA	      -->	  3V
 
