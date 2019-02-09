@@ -5,12 +5,16 @@ Arduino Bitcoin Price Ticker
   https://github.com/Bodmer/TFT_eSPI.git
 
   I had to make 2 small changes to get it working for my display:
+  
   -User_Setup_Select.h:
+  
     line 22: //#include <User_Setup.h> // Comment out User_Setup.h
+    
     line 25: #include <User_Setups/Setup2_ST7735.h> // Uncomment this header file
   
 	
   -User_Setups/Setup2_ST7735.h:
+  
     line 10: #define ST7735_BLACKTAB
   
 
