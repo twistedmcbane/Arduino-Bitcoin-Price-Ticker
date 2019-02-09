@@ -13,11 +13,18 @@ Connection:
 TFT(ST7735) -->	NodeMcu v3
 
 GND		      -->   G
+
 VCC		      -->	  3V
+
 SCK		      -->	  D5
+
 SDA		      -->	  D7
+
 RES		      -->	  D4
+
 RS		      -->	  D3
+
 CS		      -->	  D8
+
 LEDA	      -->	  3V
 
