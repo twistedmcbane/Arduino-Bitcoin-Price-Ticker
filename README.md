@@ -1,6 +1,8 @@
 # Arduino-Bitcoin-Price-Ticker
 Arduino Bitcoin Price Ticker
-
+	Thingiverse Link:
+	https://www.thingiverse.com/thing:3415250
+	
   Clone this TFT library to your Arduino library folder (e.g. "C:\Users\twist\OneDrive\Dokumente\Arduino\libraries")
   https://github.com/Bodmer/TFT_eSPI.git
 
