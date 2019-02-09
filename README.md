@@ -1,7 +1,7 @@
 # Arduino-Bitcoin-Price-Ticker
 Arduino Bitcoin Price Ticker
 
-  Clone this TFT library to you Arduino library folder (e.g. "C:\Users\twist\OneDrive\Dokumente\Arduino\libraries")
+  Clone this TFT library to your Arduino library folder (e.g. "C:\Users\twist\OneDrive\Dokumente\Arduino\libraries")
   https://github.com/Bodmer/TFT_eSPI.git
 
   I had to make 2 small changes to get it working for my display:
