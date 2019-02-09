@@ -1,6 +1,9 @@
 # Arduino-Bitcoin-Price-Ticker
 Arduino Bitcoin Price Ticker
 
+I am using the standard Arduino IDE
+https://www.arduino.cc/en/main/software
+
 Thingiverse Link:
 https://www.thingiverse.com/thing:3415250
 	
